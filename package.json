@@ -1,0 +1,11 @@
+{
+  "name": "com.af.card_games",
+  "version": "0.0.1",
+  "displayName": "Card Games",
+  "description": "Stuff for making card games",
+  "unity": "2021.3",
+  "unityRelease": "4f1",
+  "author": {
+    "name": "AFaurholt"
+  }
+}
